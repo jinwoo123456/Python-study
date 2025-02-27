@@ -1,0 +1,2 @@
+ALTER TABLE phone_book
+ADD PRIMARY KEY (번호);
